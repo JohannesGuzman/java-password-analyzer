@@ -13,6 +13,10 @@ It then calculates a **security score** and classifies the password as weak, med
 
 ---
 
+## Demo
+
+![Password Analyzer Demo](assets/password-analyzer-demo.png)
+
 ## Example
 
 Enter a password: MyPass123
