@@ -46,6 +46,9 @@ Security level: Medium
 
 java-password-analyzer
 │
+│
+├── assets
+│ └── password-analyzer-demo.png
 ├── src
 │ └── PasswordAnalyzer.java
 │
